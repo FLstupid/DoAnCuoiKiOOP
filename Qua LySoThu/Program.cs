@@ -68,6 +68,7 @@ namespace Qua_LySoThu
             kx.Add(new KhachXem("Kh06","V6", "31/1/2020"));
             kx.Add(new KhachXem("Kh07","V7", "1/4/2020"));
             kx.Add(new KhachXem("Kh08","V8", "1/5/2020"));
+            kx.Add(new KhachXem("Kh09", "V9", "1/5/2020"));
 
         }
         static void Main(string[] args)
